@@ -4,7 +4,7 @@ I will be writing about my 20+ years of technology career on this page.
 
 My main technology interests are,
 
--Programming : C#, Python, Javascript, Typescript, Lisp( Scheme).
+- Programming : C#, Python, Javascript, Typescript, Lisp( Scheme).
 - Machine Learning and A.I
 - Programmer productivity i.e., how to improve your programming skills.
 
