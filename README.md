@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Thanks for visiting my Technology website.
+My name is Senthil Rajasekharan and thanks for visiting my technology website. 
 
 I will be writing about my 20+ years of technology career on this page.
 
