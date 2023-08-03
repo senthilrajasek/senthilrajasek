@@ -1,10 +1,12 @@
-My name is Senthil Rajasekharan and thanks for visiting my technology website. 
+Hello! my name is Senthil Rajasekharan. Thanks for visiting my technology website. 
 
 I will be writing about my 20+ years of technology career on this page.
 
 My main technology interests are,
 
 - Programming : C#, Python, Javascript, Typescript, Lisp( Scheme).
+- Cloud computing ( AWS, Azure, Terraform)
+- Networking ( TCP/IP, DNS, HTTPS etc.,)
 - Machine Learning and A.I
 - Programmer productivity i.e., how to improve your programming skills.
 
