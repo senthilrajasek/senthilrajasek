@@ -5,6 +5,8 @@ I will be writing about my 20+ years of technology career on this page.
 My main technology interests are,
 
 - Programming : C#, Python, Javascript, Typescript, Lisp( Scheme).
+.. - [Archived Programming related blog posts](http://blog.rajasekharan.com/category/programming/ "Posts under Programming category")
+.. - [Archived Web Development related blog posts](https://web.archive.org/web/20141119082154/http://blog.rajasekharan.com/category/technology/web-development/ "Posts undet Web Development category")
 - Cloud computing ( AWS, Azure, Terraform)
 - Networking ( TCP/IP, DNS, HTTPS etc.,)
 - Machine Learning and A.I
@@ -13,6 +15,11 @@ My main technology interests are,
 Apart from technology I love reading, writing, mathematics ( probability and statistics) and personal finance.
 
 My goal is to be engaging and useful.
+
+archive.org links to my old blog ( blog.rajasekharan.com)
+
+
+
 
 <!--
 **senthilrajasek/senthilrajasek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
